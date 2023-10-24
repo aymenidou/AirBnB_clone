@@ -74,3 +74,38 @@ section.places article .information > div{
     padding: 0 .5rem .5rem .5rem;
     width: 100%;
 }
+.places .amenities, .places .reviews{
+    margin-top: 40px;
+    width: 100%;
+}
+.places .amenities h2,.places .reviews h2{
+    font-size: 16px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: .5rem;
+}
+.places .amenities ul, .reviews ul{
+    list-style: none;
+    padding: 0;
+}
+.places .amenities li{
+    display: flex;
+    flex-direction: row;
+    padding: .3rem 0;
+}
+.places .amenities ul .icon{
+    height: 20px;
+    width: 20px;
+    margin-right: 1rem;
+}
+.tv.icon{
+    background-image: url('../images/icon_tv.png');
+}
+.wifi.icon{
+    background-image: url('../images/icon_wifi.png');
+}
+.pet.icon{
+    background-image: url('../images/icon_pets.png');
+}
+.reviews ul h3{
+    font-size: 14px;
+}
