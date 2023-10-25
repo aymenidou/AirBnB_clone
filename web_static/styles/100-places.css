@@ -108,4 +108,9 @@ section.places article .information > div{
 }
 .reviews ul h3{
     font-size: 14px;
+    margin-bottom: 0;
+}
+.reviews ul p{
+    font-size: 12px;
+    margin-top: 0.5rem;
 }
