@@ -17,7 +17,7 @@ The AirBnB_clone is the first step towards building our first full web applicati
 You can run this program on your local machine by following these steps:
 > **Step 1:** Clone our repository using this command, (you need to have git and python3 installed on your machine first)
 ````
-git clone https://github.com/yasmineholb/AirBnB_clone.git
+git clone https://github.com/aymenidou/AirBnB_clone.git
 ````
 > **Step 2:** Change directory to AirBnB_clone:
 ````
